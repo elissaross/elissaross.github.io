@@ -1,0 +1,192 @@
+.indent {
+	padding: 2px;
+	margin-top: 5px;
+	margin-left: 25px;
+}
+
+#body {
+	font-family: Helvetica;
+	background-color: #ffffff;
+}
+
+#title {
+ padding: 150px 50px;
+ width: 500px;
+}
+
+#title h1 {
+	font-family: Helvetica;
+	font-size: 36px;
+}
+
+
+#titleFAQ h1 {
+	font-family: Helvetica;
+	font-size: 36px;
+}
+
+
+#title h2 {
+	font-family: Helvetica;
+	font-size: 24px;
+}
+
+#title h3 {
+	font-family: Helvetica;
+	font-size: 18px;
+}
+
+#titleCourse h1 {
+	font-family: Helvetica;
+	font-size: 36px;
+}
+
+#research h2 {
+	font-family: Helvetica;
+	font-size: 24px;
+}
+
+#teaching h2 {
+	font-family: Helvetica;
+	font-size: 24px;
+}
+
+#picture {
+	margin: 50px 50px;
+	float: right;
+}
+
+#research {
+	margin: 10px;
+}
+
+#teaching {
+	margin: 10px;
+}
+
+
+#research br {
+/*	display: none;*/
+}
+
+/* 	nice pale green: 	#f0fff0
+	nice sand:			#faebd7
+	nice blue:			#f0f8ff
+	
+*/
+
+#research li {
+		background-color: #f0f0f0;
+
+	padding: 4px;
+	margin-top: -1px;
+		display-style: block;
+	padding: 10px;
+    border: 1px solid #999999;
+}
+
+
+#teaching ul {
+	list-style: none;
+	display-style: block;
+}
+
+#teaching ul li {
+	background-color: #f0f0f0;
+	display-style: block;
+	padding: 10px;
+	margin-top: -1px;
+    border: 1px solid #999999;
+}
+
+#teaching i.blank {
+	font-style: normal;
+}
+
+table, td, th {
+	margin-left: 2.5cm;
+	border:1px solid black;
+	border-collapse: collapse;
+	font-family: Helvetica;
+}
+
+
+
+h4 {
+	font-family: helvetica;
+	margin-left:1.5cm
+}
+
+p {
+	font-family: helvetica;
+	width: 21.5cm;
+	margin-left: 2cm;
+	text-align: justify
+}
+
+a:link {
+	color: #996666;
+	text-decoration: none;
+	font-family: helvetica;
+}
+
+a:visited {
+	color: #887788;
+	text-decoration: none;
+	font-family: helvetica;
+}
+
+a:hover {
+	color: #aa99aa;
+	text-decoration: none;
+	font-family: helvetica;
+}
+
+a:active {
+	color: #000000;
+	text-decoration: none;
+	font-family: helvetica;
+}
+
+ol {
+	font-family: helvetica;
+	list-style-type: decimal;
+	margin-left: 1.5cm; 
+	width: 20cm;
+}
+
+ul {
+	font-family: helvetica; 
+	margin-left: 1.5cm;
+	width: 20cm;
+}
+
+#frequency textarea {
+	margin: 10px;
+	padding: 4px;
+	width: 440px;
+	height: 120px;
+	border: 3px solid #f0f0f0;
+	margin-left: 2cm;
+}
+
+#frequency table {
+	margin-left: 2cm;
+	border-collapse:collapse;
+}
+
+#frequency table, td {
+	padding: 10px;
+	border: 1px solid black;
+	background-color: #f0f0f0;
+}
+
+#frequency h2 {
+	font-family: Helvetica;
+	font-size: 24px;
+}
+
+#placeholder {
+	margin-left: 2cm;
+	margin-top: 1cm;
+}
